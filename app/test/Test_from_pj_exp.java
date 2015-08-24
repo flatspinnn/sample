@@ -22,6 +22,7 @@ public class Test {
 			// TODO 自動生成された catch ブロック
 			e.printStackTrace();
 		}
+		//ここに修正from_pj_exp
 	}*/
 		URLCodec codec = new URLCodec();
 		//変更
