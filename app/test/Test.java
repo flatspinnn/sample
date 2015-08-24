@@ -8,6 +8,7 @@ import org.apache.commons.codec.net.URLCodec;
 public class Test {
 
 	public static void main(String args[]) {
+	//変更
 //		String a = "JAVA JAVA";
 //		System.out.println(a.replaceAll("(JAVA)", change("$1 a")));
 		// shift_jisエンコード

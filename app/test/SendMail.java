@@ -1,5 +1,6 @@
-/**
+﻿/**
  * 3mail API接続サンプルプログラム
+ * 複数ファイル変更
  * 要 Jakarta Commons HttpClient4 (http://hc.apache.org/)
  *
  * @author 3hands dev Team
