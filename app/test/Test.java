@@ -23,6 +23,7 @@ public class Test {
 		}
 	}*/
 		URLCodec codec = new URLCodec();
+		//変更
 		try {
 			String b_decode = codec.decode(b, "UTF-8");
 			String c_decode = codec.decode(c, "UTF-8");
