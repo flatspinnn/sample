@@ -62,6 +62,7 @@ class SendData {
     public void send() throws Exception {
 
         //3mail APIへ接続
+        //from_exp
         final HttpClient client = new DefaultHttpClient();
         final HttpPost post = new HttpPost("http://demo.3mail.jp/API/set");
         final MultipartEntity entity = new MultipartEntity(HttpMultipartMode.BROWSER_COMPATIBLE);
