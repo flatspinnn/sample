@@ -4,3 +4,4 @@
 -config2
 -for rebase
 ^for rebase2
+-test1
