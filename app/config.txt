@@ -14,3 +14,5 @@
 -add rebase test3_3
 -add master
 -add master2
+-add rebase test5
+-add rebase test5_2
