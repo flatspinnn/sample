@@ -21,3 +21,4 @@
 -add config
 -add pj_paypal_merge
 -add paypal commit
+-add master
