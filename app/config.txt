@@ -24,3 +24,5 @@
 -add master
 -add master for authori
 -add authori
+-add authori
+-add authori2
