@@ -19,3 +19,4 @@
 -add pp2mati
 -add pp2
 -add config
+-add pj_paypal_merge
