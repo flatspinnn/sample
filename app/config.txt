@@ -22,7 +22,12 @@
 -add pj_paypal_merge
 -add paypal commit
 -add master
+<<<<<<< HEAD
 -add master for authori
 -add authori
 -add authori
 -add authori2
+=======
+-add authori
+-add authori2
+>>>>>>> origin/pj_auth
