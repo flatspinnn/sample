@@ -17,4 +17,7 @@
 -add rebase test5
 -add rebase test5_2
 -add pp2mati
--add pp2mati2
+-add pp2
+-add config
+-add pj_paypal_merge
+-add paypal commit
