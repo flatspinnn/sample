@@ -20,3 +20,6 @@
 -add pp2
 -add config
 -add paypal commit
+-add pj_paypal_merge
+-add pj_paypal
+-add master
